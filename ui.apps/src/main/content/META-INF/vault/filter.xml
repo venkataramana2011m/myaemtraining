@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/myaemtraining/clientlibs"/>
+    <filter root="/apps/myaemtraining/components"/>
+    <filter root="/apps/myaemtraining/i18n"/>
+    <filter root="/apps/msm/myaemtraining_blueprint" mode="merge"/>
+</workspaceFilter>
